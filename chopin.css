@@ -139,7 +139,7 @@ body, button, input, select, textarea {
 }
 
 body {
-    font-family: 'Fira Code', 'adelle', 'Georgia', serif;
+    font-family: "Lucida Console",Monaco,Consolas,monospace,"SimSun","adelle","Georgia",serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -154,7 +154,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
     font-weight: normal;
-    font-family: 'Fira Code', 'adelle', 'Georgia', serif，arial, sans-serif;
+    font-family: "Lucida Console",Monaco,Consolas,monospace,"SimSun","adelle","Georgia",serif;
 }
 
 em {
@@ -307,7 +307,7 @@ strong, b {
 }
 
 html {
-    font-family: 'Fira Code', 'adelle', 'Georgia', serif;
+    font-family: "Lucida Console",Monaco,Consolas,monospace,"SimSun","adelle","Georgia",serif;
 }
 
 #write h1, #write h2, #write h3, #write h4, #write h5, #write h6,
